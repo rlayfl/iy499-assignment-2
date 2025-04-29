@@ -10,10 +10,23 @@ def print_text_slowly(text, delay=0.02):
         time.sleep(delay)
     print()  # Print a newline at the end
 
+    time.sleep(1)
+
+def read_story_from_json_file(file_path):
+    """Reads the story from a JSON file."""
+    import json
+    with open(file_path, 'r') as file:
+        story = json.load(file)
+    return story
+
 def main():
 
+    story = read_story_from_json_file("story.json")
 
-    print_text_slowly("Test print text slowly function")
+    print_text_slowly(story['chapters'][0]['title'])
+
+    for paragraph in story['chapters'][0]['paragraphs']:
+        print_text_slowly(paragraph)
 
 if __name__ == "__main__":
     main()
