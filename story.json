@@ -1,0 +1,30 @@
+{
+    "book": {
+        "chapters": [
+            {
+                "title": "Chapter 1: The Beginning",
+                "paragraphs": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                    "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+                ]
+            },
+            {
+                "title": "Chapter 2: The Discovery",
+                "paragraphs": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                    "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+                ]
+            },
+            {
+                "title": "Chapter 3: The Secret",
+                "paragraphs": [
+                    "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                    "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                    "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris."
+                ]
+            }
+        ]
+    }
+}
