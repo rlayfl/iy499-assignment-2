@@ -1,0 +1,28 @@
+[
+    {
+        "type": "attack",
+        "sub_events": [
+            {
+                "name": "melee",
+                "description": "Close combat attack"
+            },
+            {
+                "name": "ranged",
+                "description": "Attack from a distance"
+            }
+        ]
+    },
+    {
+        "type": "defence",
+        "sub_events": [
+            {
+                "name": "block",
+                "description": "Blocking an attack"
+            },
+            {
+                "name": "dodge",
+                "description": "Evading an attack"
+            }
+        ]
+    }
+]

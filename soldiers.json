@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "John Perks",
+        "rank": "Private",
+        "age": 17,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 2,
+        "name": "Arthur Smith",
+        "rank": "Private",
+        "age": 22,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 3,
+        "name": "William Brown",
+        "rank": "Private",
+        "age": 28,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 4,
+        "name": "George Wilson",
+        "rank": "Private",
+        "age": 19,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 5,
+        "name": "Henry Taylor",
+        "rank": "Private",
+        "age": 18,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 6,
+        "name": "Edward Johnson",
+        "rank": "Private",
+        "age": 25,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 7,
+        "name": "Thomas White",
+        "rank": "Private",
+        "age": 20,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 8,
+        "name": "Albert Harris",
+        "rank": "Private",
+        "age": 21,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 9,
+        "name": "Frederick Martin",
+        "rank": "Private",
+        "age": 30,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 10,
+        "name": "Charles Thompson",
+        "rank": "Private",
+        "age": 19,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 11,
+        "name": "James Moore",
+        "rank": "Private",
+        "age": 18,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 12,
+        "name": "Frank Clark",
+        "rank": "Private",
+        "age": 23,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 13,
+        "name": "Herbert Lewis",
+        "rank": "Private",
+        "age": 20,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 14,
+        "name": "Ernest Walker",
+        "rank": "Private",
+        "age": 19,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 15,
+        "name": "Alfred Hall",
+        "rank": "Private",
+        "age": 27,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 16,
+        "name": "Harry Allen",
+        "rank": "Private",
+        "age": 18,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 17,
+        "name": "Percy Young",
+        "rank": "Private",
+        "age": 21,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 18,
+        "name": "Sidney King",
+        "rank": "Private",
+        "age": 26,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 19,
+        "name": "Walter Wright",
+        "rank": "Private",
+        "age": 20,
+        "weapon": "Lee Enfield No.1 Mk III"
+    },
+    {
+        "id": 20,
+        "name": "Victor Scott",
+        "rank": "Private",
+        "age": 19,
+        "weapon": "Lee Enfield No.1 Mk III"
+    }
+]
